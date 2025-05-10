@@ -1,0 +1,93 @@
+[
+    {
+      "recipe_id": "R001",
+      "recipe_name": "Chicken Basil Stir Fry",
+      "recipe_image": "https://i.ibb.co.com/MkJtWpLC/32732603e2af271fb1ba29e8a47caeb2.jpg",
+      "short_description": "A spicy Thai stir-fry with chicken and fresh basil.",
+      "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaf", "400 g mushroom", "3 cloves garlic"],
+      "preparing_time": "30",
+      "calories": "320"
+    },
+    {
+      "recipe_id": "R002",
+      "recipe_name": "Spaghetti Carbonara",
+      "recipe_image": "https://i.ibb.co.com/SXnSH5ZS/d0ea956781eef5724d2404d397e9e6fc.jpg",
+      "short_description": "Italian pasta with eggs, cheese, and bacon.",
+      "ingredients": ["200 g spaghetti", "2 eggs", "100 g pancetta", "50 g parmesan cheese", "Salt", "Pepper"],
+      "preparing_time": "25",
+      "calories": "450"
+    },
+    {
+      "recipe_id": "R003",
+      "recipe_name": "Mushroom Soup",
+      "recipe_image": "https://i.ibb.co.com/cSLMBp14/0953cddfe437f51947c1f9e356d6fde7.jpg",
+      "short_description": "A creamy soup made with fresh mushrooms and herbs.",
+      "ingredients": ["400 g mushroom", "1 onion", "2 cloves garlic", "500 ml vegetable stock", "100 ml cream"],
+      "preparing_time": "35",
+      "calories": "280"
+    },
+    {
+      "recipe_id": "R004",
+      "recipe_name": "Grilled Salmon",
+      "recipe_image": "https://i.ibb.co.com/ynG1bXsD/3e5ad5bce422015e80fcad22897abd8c.jpg",
+      "short_description": "Juicy grilled salmon with lemon butter.",
+      "ingredients": ["250 g salmon fillet", "1 tbsp olive oil", "1 tsp lemon juice", "2 cloves garlic", "Fresh dill"],
+      "preparing_time": "20",
+      "calories": "370"
+    },
+    {
+      "recipe_id": "R005",
+      "recipe_name": "Vegetable Fried Rice",
+      "recipe_image": "https://i.ibb.co.com/KxrgxtQc/119c2c95b3f0108dbb5ab52abc5e5977.jpg",
+      "short_description": "Quick stir-fried rice with mixed vegetables.",
+      "ingredients": ["200 g cooked rice", "100 g carrots", "50 g peas", "50 g bell pepper", "2 tbsp soy sauce"],
+      "preparing_time": "15",
+      "calories": "300"
+    },
+    {
+      "recipe_id": "R006",
+      "recipe_name": "Chocolate Pancakes",
+      "recipe_image": "https://i.ibb.co.com/vvPSpMcx/13f2e65bfe3b6b75d55fb64ae60eb82b.jpg",
+      "short_description": "Fluffy pancakes with rich chocolate flavor.",
+      "ingredients": ["150 g flour", "2 tbsp cocoa powder", "1 egg", "200 ml milk", "1 tsp baking powder"],
+      "preparing_time": "20",
+      "calories": "410"
+    },
+    {
+      "recipe_id": "R007",
+      "recipe_name": "Beef Tacos",
+      "recipe_image": "https://i.ibb.co.com/DDBC1RVx/517f380dda50738fff4bbb1391334438.jpg",
+      "short_description": "Crunchy tacos filled with seasoned beef and veggies.",
+      "ingredients": ["300 g minced beef", "1 onion", "1 tsp chili powder", "Taco shells", "Lettuce", "Cheese"],
+      "preparing_time": "25",
+      "calories": "520"
+    },
+    {
+      "recipe_id": "R008",
+      "recipe_name": "Classic Burger",
+      "recipe_image": "https://i.ibb.co.com/N2VhDjvQ/8fdbd44dafa72338a7047252a4668fbb.jpg",
+      "short_description": "Juicy beef burger with lettuce, tomato, and cheese.",
+      "ingredients": ["1 beef patty", "1 burger bun", "1 slice cheddar", "Lettuce", "Tomato", "Ketchup"],
+      "preparing_time": "20",
+      "calories": "580"
+    },
+    {
+      "recipe_id": "R009",
+      "recipe_name": "Garlic Butter Shrimp",
+      "recipe_image": "https://i.ibb.co.com/Vcgn3ccZ/c3b81e6d172a479cec82e4097bc8e018.jpg",
+      "short_description": "Shrimp sautéed in garlic butter and lemon.",
+      "ingredients": ["300 g shrimp", "3 cloves garlic", "2 tbsp butter", "1 tsp lemon juice", "Parsley"],
+      "preparing_time": "15",
+      "calories": "270"
+    },
+    {
+      "recipe_id": "R010",
+      "recipe_name": "Avocado Toast",
+      "recipe_image": "https://i.ibb.co.com/6cwfDy8d/6ca2ea3e56c4e81346a3e8925fba634b.jpg",
+      "short_description": "Simple and healthy avocado toast with eggs.",
+      "ingredients": ["2 slices bread", "1 ripe avocado", "1 boiled egg", "Salt", "Black pepper"],
+      "preparing_time": "10",
+      "calories": "250"
+    }
+  ]
+  
